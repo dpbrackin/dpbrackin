@@ -1,6 +1,6 @@
-<h1 align="center">Hi! I'm David 🚀</h1>
+<h2 align="center">Hi! I'm David 🚀</p>
 
-I build software on the cloud.
+<p align="center">I build software on the cloud.</p>
 
 ## ⚡ Tools<
 
