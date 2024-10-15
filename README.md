@@ -1,4 +1,4 @@
-<h2 align="center">Hi! I'm David 🚀</p>
+<h2 align="center">Hi! I'm David 🚀</h2>
 
 <p align="center">I build software on the cloud.</p>
 
