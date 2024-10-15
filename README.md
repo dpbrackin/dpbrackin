@@ -21,7 +21,8 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 🎓 Im learning
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![image](https://github.com/user-attachments/assets/3ae12caf-a318-4870-9a14-c2f161edae20)
+
 
 
 <!--
