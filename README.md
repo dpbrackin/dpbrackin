@@ -1,8 +1,8 @@
-<h2 align="center">Hi! I'm David 🚀</h2>
+<h1 align="center">Hi! I'm David 🚀</h1>
 
 <p align="center">I build software on the cloud.</p>
 
-## ⚡ Tools<
+## ⚡ Tools
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
